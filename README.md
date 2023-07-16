@@ -14,7 +14,7 @@ Once you've downloaded the dataset, please place it in the `data` directory befo
 The repository is organized as follows:
 
 - `Python_audio_classifier.py`: The main Python script containing the audio classifier implementation.
-- `data/`: The directory where the UrbanSound8K.csv dataset should be placed.
+- `Dataset/`: The directory where the UrbanSound8K dataset should be placed.
 - `README.md`: The README file you are currently reading, providing an overview of the project and instructions.
 
 ## Requirements
