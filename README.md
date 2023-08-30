@@ -59,10 +59,6 @@ print_prediction(file_name)
 
 Please ensure that the audio file is in WAV format for accurate predictions.
 
-## Model Architecture
-
-The audio classifier's neural network architecture consists of three hidden layers with 128, 256, and 256 neurons, respectively, followed by a dropout layer to prevent overfitting. The final layer has 10 neurons, representing the number of sound classes in the dataset. The model uses the softmax activation function to output the class probabilities.
-
 ## License
 
 The code in this repository is provided under the MIT License. You are free to use, modify, and distribute it for your projects.
